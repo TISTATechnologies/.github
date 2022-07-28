@@ -1,0 +1,4 @@
+{
+  "name": "TODO Actions",
+  "description": "Creates github issues on push based on any TODO comments"
+}
