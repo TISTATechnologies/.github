@@ -2,7 +2,7 @@
 name: Feature (innovation-lab)
 about: Suggest an idea for the innovation lab
 title: ''
-labels: ''
+labels: Feature
 assignees: ''
 
 ---
