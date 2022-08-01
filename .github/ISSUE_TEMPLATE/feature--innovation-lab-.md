@@ -2,18 +2,19 @@
 name: Feature (innovation-lab)
 about: Suggest an idea for the innovation lab
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Feature Name
 
-**Describe the solution you'd like**
+## Descriptions
+
 A clear and concise description of what you want to happen.
 
-**Related Issues**
+### Issues
 
-**Additional context**
+### Additional context
+
 Add any other context or screenshots about the feature request here.

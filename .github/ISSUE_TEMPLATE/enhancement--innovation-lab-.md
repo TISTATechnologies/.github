@@ -2,7 +2,7 @@
 name: Enhancement (innovation-lab)
 about: Tasks related to any innovation lab application logic
 title: "[ShortDescription]"
-labels: enhancement
+labels: ''
 assignees: ranson21
 
 ---
