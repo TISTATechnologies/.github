@@ -2,7 +2,7 @@
 name: Bug (innovation-lab)
 about: Create a report to help us improve
 title: ''
-labels: 'Type: Bug'
+labels: "Team: DevOps \U0001F680, Type: Bug"
 assignees: ''
 
 ---
